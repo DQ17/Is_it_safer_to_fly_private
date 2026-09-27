@@ -1,0 +1,11 @@
+# Raw and intermediate data: too large for GitHub,
+# can be re-downloaded from the sources listed in the README
+data/raw/
+data/interim/
+
+# Reference PDFs from the NTSB (linked in the README instead)
+docs/*.pdf
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
